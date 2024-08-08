@@ -33,6 +33,6 @@ spec:
                   name: google
                   key: refreshToken
             - name: SMTP_USER
-              value: sleeprnestapp@gmail.com
+              value: test@email.com
           ports:
             - containerPort: 3000
